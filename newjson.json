@@ -1,17 +1,13 @@
 {
-    "nameProduct": "new1",
-    "name": "Aleksandr",
-    "values": [1, 2, 3, 4],
-    "settings": {
-        "darkMode": true
-    }
-}
-
-
-{
     "Products": {
         "product-1": {
-            "name": "",
-            "picture": "",
-            "text": "",
-            "": ""
+            "name": "pic1",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "text": "my first pix"
+        }
+        "product-2": {
+            "name": "pic2",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "text": "my second pix"
+        }
+    }
