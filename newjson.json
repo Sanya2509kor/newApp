@@ -1,6 +1,7 @@
 {
     "key": "NoName",
-    "values": [1, 2, 3],
+    "name": "Aleksandr",
+    "values": [1, 2, 3, 4],
     "settings": {
         "darkMode": true
     }
