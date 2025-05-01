@@ -1,8 +1,17 @@
 {
-    "key": "NoName",
+    "nameProduct": "new1",
     "name": "Aleksandr",
     "values": [1, 2, 3, 4],
     "settings": {
         "darkMode": true
     }
 }
+
+
+{
+    "Products": {
+        "product-1": {
+            "name": "",
+            "picture": "",
+            "text": "",
+            "": ""
