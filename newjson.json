@@ -2,7 +2,7 @@
     "Products": {
         "product-1": {
             "name": "pic1",
-            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/1.png",
             "text": 
             "Утро в лесу было тихим и прохладным.
             Солнце только начинало подниматься, окрашивая небо в нежные оттенки розового и золотого.
@@ -13,7 +13,7 @@
         },
         "product-2": {
             "name": "pic2",
-            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/2.png",
             "text": 
             "Город никогда не спит.
             Огни рекламных вывескок мигают, машины сигналят в пробках, а люди спешат по своим делам.
@@ -22,7 +22,7 @@
         },
         "product-3": {
             "name": "pic3",
-            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/3.png",
             "text": 
             "Он тщательно проверял дверь — заперта.
             Окна тоже. Никто не мог войти. Но когда он лег спать, то услышал тихий скрип половиц… 
@@ -30,7 +30,7 @@
         },
         "product-4": {
             "name": "pic4",
-            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/4.png",
             "text": 
             "Искусственный интеллект стремительно меняет нашу жизнь. 
             От голосовых помощников до беспилотных автомобилей — технологии на основе ИИ уже окружают нас.
@@ -40,7 +40,7 @@
         },
         "product-5": {
             "name": "pic5",
-            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/5.png",
             "text": 
             "Иногда кажется, что все идет не так. 
             Планы рушатся, мечты отдаляются, а силы на исходе. 
@@ -50,7 +50,7 @@
         },
         "product-6": {
             "name": "pic6",
-            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/6.png",
             "text": 
             "— Дорогой, ты помнишь, где оставил ключи?
              — Конечно! Они лежат в том месте, где мы всегда их кладем.
@@ -60,7 +60,7 @@
         },
         "product-7": {
             "name": "pic7",
-            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/7.png",
             "text": 
             "Утро в лесу было тихим и прохладным.
             Солнце только начинало подниматься, окрашивая небо в нежные оттенки розового и золотого. 
@@ -70,19 +70,19 @@
         },
         "product-8": {
             "name": "pic8",
-            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/8.png",
             "text": 
             "my 8 pix"
         },
         "product-9": {
             "name": "pic9",
-            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/9.png",
             "text": 
             "my 9 pix"
         },
         "product-10": {
             "name": "pic10",
-            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/10.png",
             "text": 
             "my 10 pix"
         }
