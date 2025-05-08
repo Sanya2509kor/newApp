@@ -1,13 +1,13 @@
 {
     "Products": {
-        "product-1": {
-            "name": "pic1",
+        "product-01": {
+            "name": "pic01",
             "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/1.png",
             "text": 
             "Утро в лесу было тихим и прохладным. Солнце только начинало подниматься, окрашивая небо в нежные оттенки розового и золотого. Воздух был наполнен ароматом хвои и свежей земли. Где-то вдалеке раздавалось пение птиц, а под ногами мягко хрустели прошлогодние листья. Казалось, время здесь замедлило свой бег, позволяя насладиться каждым мгновением."
         },
-        "product-2": {
-            "name": "pic2",
+        "product-02": {
+            "name": "pic02",
             "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/2.png",
             "text": 
             "Город никогда не спит.
@@ -15,16 +15,16 @@
             Где-то в переулке играет уличный музыкант, смешивая свои мелодии с гулом метро.
             Здесь каждый — часть огромного механизма, который не останавливается ни на секунду."
         },
-        "product-3": {
-            "name": "pic3",
+        "product-03": {
+            "name": "pic03",
             "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/3.png",
             "text": 
             "Он тщательно проверял дверь — заперта.
             Окна тоже. Никто не мог войти. Но когда он лег спать, то услышал тихий скрип половиц… 
             Утром на столе лежала записка: «Спасибо за гостеприимство. До завтра.»"
         },
-        "product-4": {
-            "name": "pic4",
+        "product-04": {
+            "name": "pic04",
             "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/4.png",
             "text": 
             "Искусственный интеллект стремительно меняет нашу жизнь. 
@@ -33,8 +33,8 @@
             данных и учатся на их основе. Однако, несмотря на прогресс, перед
             разработчиками стоят серьезные этические вопросы."
         },
-        "product-5": {
-            "name": "pic5",
+        "product-05": {
+            "name": "pic05",
             "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/5.png",
             "text": 
             "Иногда кажется, что все идет не так. 
@@ -43,8 +43,8 @@
             Каждая неудача — это урок, каждая трудность — шаг к силе. 
             Не сдавайся. Завтра может быть тем днем, когда всё изменится."
         },
-        "product-6": {
-            "name": "pic6",
+        "product-06": {
+            "name": "pic06",
             "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/6.png",
             "text": 
             "— Дорогой, ты помнишь, где оставил ключи?
@@ -53,8 +53,8 @@
              — Ну… там, где они должны быть!
              — Спасибо, очень помог."
         },
-        "product-7": {
-            "name": "pic7",
+        "product-07": {
+            "name": "pic07",
             "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/7.png",
             "text": 
             "Утро в лесу было тихим и прохладным.
@@ -63,14 +63,14 @@
             Где-то вдалеке раздавалось пение птиц, а под ногами мягко хрустели прошлогодние листья. 
             Казалось, время здесь замедлило свой бег, позволяя насладиться каждым мгновением."
         },
-        "product-8": {
-            "name": "pic8",
+        "product-08": {
+            "name": "pic08",
             "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/8.png",
             "text": 
             "my 8 pix"
         },
-        "product-9": {
-            "name": "pic9",
+        "product-09": {
+            "name": "pic09",
             "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/9.png",
             "text": 
             "my 9 pix"
