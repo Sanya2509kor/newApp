@@ -9,6 +9,46 @@
             "name": "pic2",
             "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
             "text": "my second pix"
+        },
+        "product-3": {
+            "name": "pic3",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "text": "my 3 pix"
+        },
+        "product-4": {
+            "name": "pic4",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "text": "my 4 pix"
+        },
+        "product-5": {
+            "name": "pic5",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "text": "my 5 pix"
+        },
+        "product-6": {
+            "name": "pic6",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "text": "my 6 pix"
+        },
+        "product-7": {
+            "name": "pic7",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "text": "my 7 pix"
+        },
+        "product-8": {
+            "name": "pic8",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "text": "my 8 pix"
+        },
+        "product-9": {
+            "name": "pic9",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "text": "my 9 pix"
+        },
+        "product-10": {
+            "name": "pic10",
+            "picture": "https://raw.githubusercontent.com/Sanya2509kor/newApp/refs/heads/main/22.png",
+            "text": "my 10 pix"
         }
     }
 }
